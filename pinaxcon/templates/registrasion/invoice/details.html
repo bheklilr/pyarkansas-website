@@ -22,18 +22,18 @@
 {% endblock %}
 
 {% block subheading %}
-  PyOhio. July 28 &amp; 29, 2018. Columbus, OH.
+  PyArkansas. July 28 &amp; 29, 2018. Columbus, OH.
 {% endblock %}
 
 {% block invoice_intro %}
   {% if invoice.is_unpaid %}
-    This is a registration summary for PyOhio 2018. It is not confirmed until paid in full.
+    This is a registration summary for PyArkansas 2018. It is not confirmed until paid in full.
   {% elif invoice.is_void %}
-    This is a void registration summary for PyOhio 2018. It is provided for informational purposes only.
+    This is a void registration summary for PyArkansas 2018. It is provided for informational purposes only.
   {% elif invoice.is_refunded %}
-    This is a refunded registration summary for PyOhio 2018. It is provided for informational purposes only.
+    This is a refunded registration summary for PyArkansas 2018. It is provided for informational purposes only.
   {% elif invoice.is_paid %}
-    This is a confirmed registration summary for PyOhio 2018.
+    This is a confirmed registration summary for PyArkansas 2018.
   {% endif %}
 {% endblock %}
 
@@ -49,9 +49,9 @@
 
 {% block contact_info %}
   <p>Direct inquiries to <a href="mailto:info@pyohio.org">info@pyohio.org</a></p>
-  <p>PyOhio is run by volunteers from Ohio and the surrounding region.</p>
+  <p>PyArkansas is run by volunteers from Ohio and the surrounding region.</p>
   <strong>Mailing Address</strong>
   <address>
-    
+
   </address>
 {% endblock %}

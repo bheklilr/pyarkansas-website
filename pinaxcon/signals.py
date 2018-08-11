@@ -25,7 +25,7 @@ logger = logging.getLogger(__name__)
 def make_slack_payload(text, channel=None):
     payload = {
         'text': text,
-        'username': 'PyOhio Website',
+        'username': 'PyArkansas Website',
         'icon_emoji': ':pyohio:',
     }
     if channel is not None:

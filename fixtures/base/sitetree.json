@@ -131,7 +131,7 @@
   "model": "sitetree.treeitem",
   "pk": 11,
   "fields": {
-    "title": "PyOhio",
+    "title": "PyArkansas",
     "hint": "",
     "url": "/2018/about/pyohio",
     "urlaspattern": false,
@@ -395,7 +395,7 @@
   "model": "sitetree.treeitem",
   "pk": 30,
   "fields": {
-    "title": "PyOhio",
+    "title": "PyArkansas",
     "hint": "",
     "url": "/2018/",
     "urlaspattern": false,
@@ -539,7 +539,7 @@
   "model": "sitetree.treeitem",
   "pk": 36,
   "fields": {
-    "title": "Travel to PyOhio",
+    "title": "Travel to PyArkansas",
     "hint": "",
     "url": "/2018/attend/travel",
     "urlaspattern": false,

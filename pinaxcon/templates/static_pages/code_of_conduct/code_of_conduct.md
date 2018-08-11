@@ -1,17 +1,17 @@
-PyOhio is a community conference intended for networking and collaboration in the developer community.
+PyArkansas is a community conference intended for networking and collaboration in the developer community.
 
-We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by PyOhio or not.
+We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by PyArkansas or not.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyOhio event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyArkansas event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
 The Short Version
 -----------------
 
-PyOhio is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
+PyArkansas is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
 
-Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyOhio.
+Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyArkansas.
 
 Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers.
 
@@ -26,7 +26,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for PyOhio.
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for PyArkansas.
 
 If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
@@ -39,7 +39,7 @@ You can email the incident response team at [conduct@pyohio.org](mailto:conduct@
 
 If the matter is especially urgent, please call our Code of Conduct and safety representitives via phone or text:
 
-- PyOhio CoC Hotline: +1-614-524-4050
+- PyArkansas CoC Hotline: +1-614-524-4050
 
 Or find individual responders in person:
 
@@ -47,7 +47,7 @@ Or find individual responders in person:
 - Brian Costlow
 - Jess Unrein
 
-Or find a PyOhio staff member with a red STAFF badge and lanyard.
+Or find a PyArkansas staff member with a red STAFF badge and lanyard.
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 

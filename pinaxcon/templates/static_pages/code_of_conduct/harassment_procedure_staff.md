@@ -12,7 +12,7 @@ Try to get as much of the incident in written form by the reporter. If you canno
  - The circumstances surrounding the incident
  - Other people involved in the incident
 
-Prepare an initial response to the incident. This initial response is very important and will set the tone for PyOhio. Depending on the severity/details of the incident, please follow these guidelines:
+Prepare an initial response to the incident. This initial response is very important and will set the tone for PyArkansas. Depending on the severity/details of the incident, please follow these guidelines:
 
  - If there is any general threat to attendees or the safety of anyone including conference staff is in doubt, summon security or police
  - Offer the victim a private place to sit

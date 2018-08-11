@@ -11,9 +11,9 @@ If you would like to be matched with a mentor to help with your proposal(s), [re
 
 ## Background
 
-PyOhio 2018, the annual Python programming conference for Ohio and the surrounding region, will take place Saturday & Sunday July 28th-29th, 2018 at The Ohio Union in Columbus, Ohio.
+PyArkansas 2018, the annual Python programming conference for Ohio and the surrounding region, will take place Saturday & Sunday July 28th-29th, 2018 at The Ohio Union in Columbus, Ohio.
 
-PyOhio invites all interested people to submit proposals for scheduled talks and tutorials. All topics of interest to the Python community will be considered. Standard presentation talk slots will be 30 minutes with select talks being given 45 minutes. Tutorial slots will be 120 minutes long.
+PyArkansas invites all interested people to submit proposals for scheduled talks and tutorials. All topics of interest to the Python community will be considered. Standard presentation talk slots will be 30 minutes with select talks being given 45 minutes. Tutorial slots will be 120 minutes long.
 
 ## Who Should Submit a Proposal?
 
@@ -27,19 +27,19 @@ You may submit multiple proposals however we will typically only accept one prop
 
 ## Financial Aid / Travel Assistance
 
-Unfortunately PyOhio is not able to offer financial aid or travel assistance at this time.
+Unfortunately PyArkansas is not able to offer financial aid or travel assistance at this time.
 
-We prioritize for PyOhio to be free to attend so as many people as possible can participate. By doing so we run with a very lean budget. Financial aid is a goal for the future but until we can secure funding for this we are unable to provide it.
+We prioritize for PyArkansas to be free to attend so as many people as possible can participate. By doing so we run with a very lean budget. Financial aid is a goal for the future but until we can secure funding for this we are unable to provide it.
 
 ## Speakers<a name="speakers"></a>
 
-PyOhio is dedicated to featuring a diverse and inclusive speaker lineup.
+PyArkansas is dedicated to featuring a diverse and inclusive speaker lineup.
 
 **All speakers will be expected to have read and adhere to the conference [Code of Conduct](/2018/code-of-conduct). In particular for speakers: slide contents and spoken material should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate, and neither are language or imagery that denigrate or demean people based on race, gender, religion, sexual orientation, physical appearance, disability, or body size.**
 
 We will make every effort to provide accommodations for speakers and attendees of all abilities&mdash;all we ask is that you let us know so we can prepare accordingly.
 
-PyOhio is a conference in support of the local programmer community. We aim to feature a mix of local and non-local speakers to offer a program with broad appeal. 
+PyArkansas is a conference in support of the local programmer community. We aim to feature a mix of local and non-local speakers to offer a program with broad appeal.
 
 ## Resources<a name="resources"></a>
 

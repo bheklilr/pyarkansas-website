@@ -23,17 +23,17 @@ necessary and coding is completley optional. [Details](/sprints)
 ### Open Spaces
 
 **10:30am-5:00pm** Open Space sessions are for disccusing topics of interest
-to the PyOhio community. Sign up for a spot outside the rooms.
+to the PyArkansas community. Sign up for a spot outside the rooms.
 
 ### Lunch
 
 **12:30pm-2:00pm** Find lunch on your own. There are many options within
-walking distance of the venue. [Some ideas](http://bit.ly/2NwRCoJ) 
+walking distance of the venue. [Some ideas](http://bit.ly/2NwRCoJ)
 
 ### Lightning Talks
 
-**5:15pm-6:15pm** Lightning talks. 5-minute talks on topics of interest to the 
-PyOhio community. Sign up for a slot on the board near registration.
+**5:15pm-6:15pm** Lightning talks. 5-minute talks on topics of interest to the
+PyArkansas community. Sign up for a slot on the board near registration.
 
 ### Sprints & Receptions
 
@@ -60,11 +60,9 @@ started! We will have light refreshments at the break*
 ### Open Spaces
 
 **12:45pm-4:45pm** Open Space sessions are for disccusing topics of interest
-to the PyOhio community. Sign up for a spot outside the rooms.
+to the PyArkansas community. Sign up for a spot outside the rooms.
 
 ## Lightning Talks
 
-**5:00pm-6:00pm** Lightning talks. 5-minute talks on topics of interest to the 
-PyOhio community. Sign up for a slot on the board near registration.
-
-
+**5:00pm-6:00pm** Lightning talks. 5-minute talks on topics of interest to the
+PyArkansas community. Sign up for a slot on the board near registration.

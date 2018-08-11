@@ -894,7 +894,7 @@
   "pk": 5,
   "fields": {
     "name": "Twitter",
-    "description": "Twitter handle to mention when PyOhio posts to thank sponsors.",
+    "description": "Twitter handle to mention when PyArkansas posts to thank sponsors.",
     "type": "simple",
     "content_type": "simple"
   }

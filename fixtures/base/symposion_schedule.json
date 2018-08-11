@@ -138,7 +138,7 @@
   "model": "symposion_schedule.slot",
   "pk": 1,
   "fields": {
-    "name": "2018-07-28 (PyOhio 2018 Talks Schedule) tutorial (10:30:00 - 12:30:00) Suzanne Scharer",
+    "name": "2018-07-28 (PyArkansas 2018 Talks Schedule) tutorial (10:30:00 - 12:30:00) Suzanne Scharer",
     "day": 1,
     "kind": 2,
     "start": "10:30:00",
@@ -151,7 +151,7 @@
   "model": "symposion_schedule.slot",
   "pk": 2,
   "fields": {
-    "name": "2018-07-28 (PyOhio 2018 Talks Schedule) tutorial (15:00:00 - 17:00:00) Suzanne Scharer",
+    "name": "2018-07-28 (PyArkansas 2018 Talks Schedule) tutorial (15:00:00 - 17:00:00) Suzanne Scharer",
     "day": 1,
     "kind": 2,
     "start": "15:00:00",
@@ -164,7 +164,7 @@
   "model": "symposion_schedule.slot",
   "pk": 3,
   "fields": {
-    "name": "2018-07-28 (PyOhio 2018 Talks Schedule) break (14:00:00 - 15:00:00) Suzanne Scharer",
+    "name": "2018-07-28 (PyArkansas 2018 Talks Schedule) break (14:00:00 - 15:00:00) Suzanne Scharer",
     "day": 1,
     "kind": 3,
     "start": "14:00:00",
@@ -177,7 +177,7 @@
   "model": "symposion_schedule.slot",
   "pk": 4,
   "fields": {
-    "name": "2018-07-28 (PyOhio 2018 Talks Schedule) break (10:00:00 - 10:30:00) Cartoon 1 Cartoon 2 Barbie Tootle Hays Cape Suzanne Scharer",
+    "name": "2018-07-28 (PyArkansas 2018 Talks Schedule) break (10:00:00 - 10:30:00) Cartoon 1 Cartoon 2 Barbie Tootle Hays Cape Suzanne Scharer",
     "day": 1,
     "kind": 3,
     "start": "10:00:00",
@@ -190,7 +190,7 @@
   "model": "symposion_schedule.slot",
   "pk": 5,
   "fields": {
-    "name": "2018-07-29 (PyOhio 2018 Talks Schedule) tutorial (12:45:00 - 14:45:00) Suzanne Scharer",
+    "name": "2018-07-29 (PyArkansas 2018 Talks Schedule) tutorial (12:45:00 - 14:45:00) Suzanne Scharer",
     "day": 2,
     "kind": 2,
     "start": "12:45:00",
@@ -203,7 +203,7 @@
   "model": "symposion_schedule.slot",
   "pk": 6,
   "fields": {
-    "name": "2018-07-29 (PyOhio 2018 Talks Schedule) tutorial (15:00:00 - 17:00:00) Suzanne Scharer",
+    "name": "2018-07-29 (PyArkansas 2018 Talks Schedule) tutorial (15:00:00 - 17:00:00) Suzanne Scharer",
     "day": 2,
     "kind": 2,
     "start": "15:00:00",
@@ -216,7 +216,7 @@
   "model": "symposion_schedule.slot",
   "pk": 7,
   "fields": {
-    "name": "2018-07-29 (PyOhio 2018 Talks Schedule) break (14:45:00 - 15:00:00) Suzanne Scharer",
+    "name": "2018-07-29 (PyArkansas 2018 Talks Schedule) break (14:45:00 - 15:00:00) Suzanne Scharer",
     "day": 2,
     "kind": 3,
     "start": "14:45:00",
@@ -229,7 +229,7 @@
   "model": "symposion_schedule.slot",
   "pk": 8,
   "fields": {
-    "name": "2018-07-28 (PyOhio 2018 Talks Schedule) plenary (09:00:00 - 09:15:00) ",
+    "name": "2018-07-28 (PyArkansas 2018 Talks Schedule) plenary (09:00:00 - 09:15:00) ",
     "day": 1,
     "kind": 5,
     "start": "09:00:00",
@@ -242,7 +242,7 @@
   "model": "symposion_schedule.slot",
   "pk": 9,
   "fields": {
-    "name": "2018-07-28 (PyOhio 2018 Talks Schedule) keynote (09:15:00 - 10:00:00) ",
+    "name": "2018-07-28 (PyArkansas 2018 Talks Schedule) keynote (09:15:00 - 10:00:00) ",
     "day": 1,
     "kind": 4,
     "start": "09:15:00",
@@ -255,7 +255,7 @@
   "model": "symposion_schedule.slot",
   "pk": 10,
   "fields": {
-    "name": "2018-07-28 (PyOhio 2018 Talks Schedule) break (12:30:00 - 14:00:00) Cartoon 1 Cartoon 2 Barbie Tootle Hays Cape Suzanne Scharer",
+    "name": "2018-07-28 (PyArkansas 2018 Talks Schedule) break (12:30:00 - 14:00:00) Cartoon 1 Cartoon 2 Barbie Tootle Hays Cape Suzanne Scharer",
     "day": 1,
     "kind": 3,
     "start": "12:30:00",

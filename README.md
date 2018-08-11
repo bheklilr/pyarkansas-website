@@ -1,7 +1,7 @@
-PyOhio Website
+PyArkansas Website
 ==============
 
-The website for PyOhio is a Django application with Symposion and Registrasion.
+The website for PyArkansas is a Django application with Symposion and Registrasion.
 
 It is a fork of the [North Bay Python website](https://github.com/northbaypython/website) (thanks NBPy folks!)
 

@@ -15,11 +15,11 @@ class Migration(migrations.Migration):
         migrations.AlterField(
             model_name='attendeeprofile',
             name='agreement',
-            field=models.BooleanField(default=False, help_text=b"I agree to act according to the <a href='/code-of-conduct'> PyOhio Code of Conduct</a>. I also agree with the PyOhio <a href='/terms'>Terms and Conditions</a>.", verbose_name=b'Agreement'),
+            field=models.BooleanField(default=False, help_text=b"I agree to act according to the <a href='/code-of-conduct'> PyArkansas Code of Conduct</a>. I also agree with the PyArkansas <a href='/terms'>Terms and Conditions</a>.", verbose_name=b'Agreement'),
         ),
         migrations.AlterField(
             model_name='attendeeprofile',
             name='newsletter',
-            field=models.BooleanField(help_text=b'Select to be subscribed to the low-volume PyOhio announcements newsletter', verbose_name=b'Subscribe to PyOhio newsletter'),
+            field=models.BooleanField(help_text=b'Select to be subscribed to the low-volume PyArkansas announcements newsletter', verbose_name=b'Subscribe to PyArkansas newsletter'),
         ),
     ]

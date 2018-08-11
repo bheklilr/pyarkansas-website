@@ -138,8 +138,8 @@ class AttendeeProfile(rego.AttendeeProfileBase):
     )
 
     newsletter = models.BooleanField(
-        verbose_name="Subscribe to PyOhio newsletter",
-        help_text="Select to be subscribed to the low-volume PyOhio "
+        verbose_name="Subscribe to PyArkansas newsletter",
+        help_text="Select to be subscribed to the low-volume PyArkansas "
                   "announcements newsletter",
         blank=True,
     )
@@ -147,8 +147,8 @@ class AttendeeProfile(rego.AttendeeProfileBase):
     agreement = models.BooleanField(
         verbose_name="Agreement",
         help_text="I agree to act according to the <a href='/code-of-conduct'> "
-                  "PyOhio Code of Conduct</a>. I also agree with the "
-                  "PyOhio <a href='/terms'>Terms and Conditions</a>.",
+                  "PyArkansas Code of Conduct</a>. I also agree with the "
+                  "PyArkansas <a href='/terms'>Terms and Conditions</a>.",
         blank=False,
         default=False,
     )

@@ -1,4 +1,4 @@
-PyOhio is taking place in the Ohio Union at The Ohio State University. The <a href="https://ohiounion.osu.edu/about_the_union/mission_vision_values">Ohio Union</a> provides a welcoming environment for the Ohio State community and guests and fosters an atmosphere of Inclusiveness, Learning, Innovation, and Teamwork 
+PyArkansas is taking place in the Ohio Union at The Ohio State University. The <a href="https://ohiounion.osu.edu/about_the_union/mission_vision_values">Ohio Union</a> provides a welcoming environment for the Ohio State community and guests and fosters an atmosphere of Inclusiveness, Learning, Innovation, and Teamwork
 
 Columbus is the state capitol for Ohio and hosts a wide range of communities and activities.
 

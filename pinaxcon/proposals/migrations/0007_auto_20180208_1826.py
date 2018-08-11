@@ -19,9 +19,9 @@ class Migration(migrations.Migration):
             fields=[
                 ('proposalbase_ptr', models.OneToOneField(auto_created=True, on_delete=django.db.models.deletion.CASCADE, parent_link=True, primary_key=True, serialize=False, to='symposion_proposals.ProposalBase')),
                 ('extra_av', models.TextField(blank=True, help_text='We will provide you with a projector with HDMI connection, an audio connection, and one microphone per speaker. If you need anything more than this to present this talk, please list them here.', verbose_name='Extra tech and A/V requirements')),
-                ('new_presentation', models.BooleanField(default=False, help_text='Check this box if PyOhio will be the first time this talk is presented at a technical conference.', verbose_name='This is a new presentation')),
-                ('slides_release', models.BooleanField(default=True, help_text='I authorize PyOhio to release a copy of my slides and related materials under the Creative Commons Attribution-ShareAlike 3.0 United States licence, and certify that I have the authority to do so.')),
-                ('recording_release', models.BooleanField(default=True, help_text='I authorize PyOhio to release a recording of my talk under the Creative Commons Attribution-ShareAlike 3.0 United States licence.')),
+                ('new_presentation', models.BooleanField(default=False, help_text='Check this box if PyArkansas will be the first time this talk is presented at a technical conference.', verbose_name='This is a new presentation')),
+                ('slides_release', models.BooleanField(default=True, help_text='I authorize PyArkansas to release a copy of my slides and related materials under the Creative Commons Attribution-ShareAlike 3.0 United States licence, and certify that I have the authority to do so.')),
+                ('recording_release', models.BooleanField(default=True, help_text='I authorize PyArkansas to release a recording of my talk under the Creative Commons Attribution-ShareAlike 3.0 United States licence.')),
                 ('prerequisite_setup', models.TextField(blank=True, help_text='Many tutorials require specific setup or installed software. Please explain your tutrial setup requirements ', verbose_name='Prerequisites tutorial participants should complete')),
                 ('prerequisite_setup_html', models.TextField(blank=True)),
                 ('participant_limit', models.IntegerField(blank=True, help_text='The maximum number of tutorial participants you feel comfortable accepting to your tutorial', verbose_name='The maximum number of tutorial participants')),
@@ -34,21 +34,21 @@ class Migration(migrations.Migration):
         migrations.AlterField(
             model_name='talkproposal',
             name='extended_presentation',
-            field=models.BooleanField(default=False, help_text='Most talks at PyOhio go for 30 minutes. We have some openings for 45-minute talks. If you check this field, please explain in your additional notes how you would use the extra 15 minutes.', verbose_name='Optionally consider this proposal for a 45-minute slot'),
+            field=models.BooleanField(default=False, help_text='Most talks at PyArkansas go for 30 minutes. We have some openings for 45-minute talks. If you check this field, please explain in your additional notes how you would use the extra 15 minutes.', verbose_name='Optionally consider this proposal for a 45-minute slot'),
         ),
         migrations.AlterField(
             model_name='talkproposal',
             name='new_presentation',
-            field=models.BooleanField(default=False, help_text='Check this box if PyOhio will be the first time this talk is presented at a technical conference.', verbose_name='This is a new presentation'),
+            field=models.BooleanField(default=False, help_text='Check this box if PyArkansas will be the first time this talk is presented at a technical conference.', verbose_name='This is a new presentation'),
         ),
         migrations.AlterField(
             model_name='talkproposal',
             name='recording_release',
-            field=models.BooleanField(default=True, help_text='I authorize PyOhio to release a recording of my talk under the Creative Commons Attribution-ShareAlike 3.0 United States licence.'),
+            field=models.BooleanField(default=True, help_text='I authorize PyArkansas to release a recording of my talk under the Creative Commons Attribution-ShareAlike 3.0 United States licence.'),
         ),
         migrations.AlterField(
             model_name='talkproposal',
             name='slides_release',
-            field=models.BooleanField(default=True, help_text='I authorize PyOhio to release a copy of my slides and related materials under the Creative Commons Attribution-ShareAlike 3.0 United States licence, and certify that I have the authority to do so.'),
+            field=models.BooleanField(default=True, help_text='I authorize PyArkansas to release a copy of my slides and related materials under the Creative Commons Attribution-ShareAlike 3.0 United States licence, and certify that I have the authority to do so.'),
         ),
     ]
