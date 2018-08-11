@@ -14,7 +14,7 @@ Django 1.11.9
 
 - Fork this repo
 - `git clone [your fork url] pyarkansas-webiste`
-- `cd pyohio-website`
+- `cd pyarkansas-website`
 - Create and activate a virtualenv (using Pipenv or virtualenv)
 - `pip install -r requirements/base.txt`
 - `python manage.py migrate`
