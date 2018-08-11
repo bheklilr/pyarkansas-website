@@ -44,4 +44,4 @@ AREA NOTED ON THE MAP***
 ## Want to lead a sprint?
 
 Add a project to the table above by [issuing a PR to this page](https://github.com/pyohio/pyohio-website/blob/master/pinaxcon/templates/static_pages/program/sprints_and_receptions.md)
-or email info@pyohio.org with the information.
+or email info@pyarkansas.com with the information.

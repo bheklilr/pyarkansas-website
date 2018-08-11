@@ -1,18 +1,12 @@
-PyArkansas is taking place in the Ohio Union at The Ohio State University. The <a href="https://ohiounion.osu.edu/about_the_union/mission_vision_values">Ohio Union</a> provides a welcoming environment for the Ohio State community and guests and fosters an atmosphere of Inclusiveness, Learning, Innovation, and Teamwork
+PyArkansas is taking place in the Student Center at The University of Arkansas at Little Rock.
 
-Columbus is the state capitol for Ohio and hosts a wide range of communities and activities.
-
-# Getting To Columbus
-
-## From Cleveland
-
-From Cleveland and Akron-Canton, take I-71 south until exit 112.
+Little Rock is the state capitol for Arkansas and hosts a wide range of communities and activities.
 
 ## By Air
 
-Columbus Airport is located about 6 miles east of Columbus and is located near both the Ohio Union and local hotels.
+The Clinton National Airport is located about 7 miles east of UA Little Rock and is a short car ride away from most of Little Rock.
 
-# Staying in Columbus
+# Staying in Little Rock
 
 ## Downtown
 
@@ -24,13 +18,13 @@ Columbus Airport is located about 6 miles east of Columbus and is located near b
 
 ## Near the Freeway
 
-[[[[Locations near the freeway / greater columbus area]]]]
+[[[[Locations near the freeway / greater Little Rock area]]]]
 
-# When in Columbus
+# When in Little Rock
 
 ## Eating
 
-There's more than 50 places to find lunch within walking distance of the Ohio Union. [[[[we recommend the following...]]]]
+TODO
 
 ## Evenings
 

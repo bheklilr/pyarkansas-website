@@ -34,7 +34,6 @@ Other Ways to Help
 
 * Sign-up to [review talk proposals](/2018/program/review-proposals).
 * Spread the word!
-  * Retweet [@PyArkansas](https://twitter.com/pyohio)
-  * Follow us on [Facebook](https://www.facebook.com/pyohio) and [RSVP to the event](https://www.facebook.com/events/2071607009786121/).
+  * Retweet [@PyArkansas](https://twitter.com/pyarkansas)
   * Let people know about PyArkansas at Meetups and user groups. Let us know if you do!
 * Make a donation to PyArkansas via the [registration page](https://ti.to/pyohio/pyohio-2018/).

@@ -41,13 +41,13 @@ import dj_database_url
 db_from_env = dj_database_url.config()
 DATABASES['default'].update(db_from_env)
 
-ALLOWED_HOSTS = [".pyohio.org", ".localhost", ".herokuapp.com"]
+ALLOWED_HOSTS = [".pyarkansas.com", ".localhost", ".herokuapp.com"]
 CANONICAL_HOST = os.environ.get("DJANGO_CANONICAL_HOST", None)
 DEFAULT_HTTP_PROTOCOL = os.environ.get("DJANGO_DEFAULT_HTTP_PROTOCOL", "http")
 INTERNAL_IPS = ["127.0.0.1"]
 
 # If DEFAULT_FROM_EMAIL is not set, email will most likely break in prod.
-from_email = os.environ.get("DJANGO_DEFAULT_FROM_EMAIL", "no-reply@pyohio.org")
+from_email = os.environ.get("DJANGO_DEFAULT_FROM_EMAIL", "no-reply@pyarkansas.com")
 if from_email is not None:
     DEFAULT_FROM_EMAIL = from_email
     SERVER_EMAIL = DEFAULT_FROM_EMAIL

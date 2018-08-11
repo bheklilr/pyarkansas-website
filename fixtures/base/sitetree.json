@@ -13,7 +13,7 @@
   "fields": {
     "title": "About",
     "hint": "",
-    "url": "/2018/about/pyohio",
+    "url": "/2018/about/pyarkansas",
     "urlaspattern": false,
     "tree": 1,
     "hidden": false,
@@ -133,7 +133,7 @@
   "fields": {
     "title": "PyArkansas",
     "hint": "",
-    "url": "/2018/about/pyohio",
+    "url": "/2018/about/pyarkansas",
     "urlaspattern": false,
     "tree": 1,
     "hidden": true,

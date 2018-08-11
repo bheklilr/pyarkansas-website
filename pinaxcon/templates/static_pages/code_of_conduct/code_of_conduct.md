@@ -35,7 +35,7 @@ Contact Information
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing badges that clearly identify them as staff.
 
-You can email the incident response team at [conduct@pyohio.org](mailto:conduct@pyohio.org). You may also contact conference staff and ask to be put in touch with conference chair [Dave Forgac](mailto:dforgac@pyohio.org).
+You can email the incident response team at [conduct@pyarkansas.com](mailto:conduct@pyarkansas.com). You may also contact conference staff and ask to be put in touch with conference chair [Dave Forgac](mailto:dforgac@pyarkansas.com).
 
 If the matter is especially urgent, please call our Code of Conduct and safety representitives via phone or text:
 

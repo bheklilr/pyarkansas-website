@@ -5,13 +5,13 @@ Ready to submit a talk? Create a speaker profile and submit proposal(s) on [the 
 
 ## Questions?
 
-Log into our Slack team (<a href="https://slack.pyohio.org/">invitation here</a>) and ask in the #cfp channel or email us at info@pyohio.org.
+Log into our Slack team (<a href="https://slack.pyarkansas.com/">invitation here</a>) and ask in the #cfp channel or email us at info@pyarkansas.com.
 
 If you would like to be matched with a mentor to help with your proposal(s), [request a mentor here](https://goo.gl/forms/s3nBsWMmdwgQHWww2).
 
 ## Background
 
-PyArkansas 2018, the annual Python programming conference for Ohio and the surrounding region, will take place Saturday & Sunday July 28th-29th, 2018 at The Ohio Union in Columbus, Ohio.
+PyArkansas 2019, the annual Python programming conference for Arkansas and the surrounding region, will take place Saturday October 5th, 2018 at the Student Center in the University of Arkansas at Little Rock.
 
 PyArkansas invites all interested people to submit proposals for scheduled talks and tutorials. All topics of interest to the Python community will be considered. Standard presentation talk slots will be 30 minutes with select talks being given 45 minutes. Tutorial slots will be 120 minutes long.
 
@@ -45,7 +45,7 @@ PyArkansas is a conference in support of the local programmer community. We aim 
 
 This [public speaking](https://github.com/vmbrasseur/Public_Speaking) repository, maintained by [VM Brasseur](https://twitter.com/vmbrasseur), has many useful resources to help you polish your proposals and talks.
 
-You may review last year's talk listing for example abstracts: [2017 talks.](https://www.pyohio.org/2017/schedule/talks/list/)
+You may review last year's talk listing for example abstracts: [2017 talks.](https://www.pyarkansas.com/2017/schedule/talks/list/)
 
 ## Submitting<a name="submitting"></a>
 
@@ -62,6 +62,6 @@ If you have an idea (or don't!) and want to speak, here's a very rough process o
 + Brainstorm or [mind map](https://en.wikipedia.org/wiki/Mind_map) to expand upon your ideas or knowledge in search of a general topic
 + Write a paragraph or two, or some bullet points, to outline the core concepts you want to communicate and what people might learn from your talk
 + Get someone you trust to read your notes and tell you what they think they'd learn
-+ Join us in Slack and discuss it in the #cfp channel: [https://slack.pyohio.org/](https://slack.pyohio.org/)
++ Join us in Slack and discuss it in the #cfp channel: [https://slack.pyarkansas.com/](https://slack.pyarkansas.com/)
 + Submit your proposal on [your account dashboard](/2018/dashboard/)
 + Practice!

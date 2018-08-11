@@ -3,7 +3,7 @@ PyArkansas Website
 
 The website for PyArkansas is a Django application with Symposion and Registrasion.
 
-It is a fork of the [North Bay Python website](https://github.com/northbaypython/website) (thanks NBPy folks!)
+It is a fork of the [PyOhio website](https://github.com/PyOhio/pyohio-website) (thanks PyOhio folks!)
 
 ## Setup
 
@@ -13,7 +13,7 @@ python 2.7.14
 Django 1.11.9
 
 - Fork this repo
-- `git clone [your fork url] pyohio-webiste`
+- `git clone [your fork url] pyarkansas-webiste`
 - `cd pyohio-website`
 - Create and activate a virtualenv (using Pipenv or virtualenv)
 - `pip install -r requirements/base.txt`
