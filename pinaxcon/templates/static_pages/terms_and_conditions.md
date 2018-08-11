@@ -1,6 +1,6 @@
 *This document was forked from the [Linux Australia Event Terms and Conditions](https://github.com/linuxaustralia/constitution_and_policies/blob/master/terms_and_conditions.md).*
 
-These Terms and Conditions apply to all attendees who have registered for North Bay Python.
+These Terms and Conditions apply to all attendees who have registered for PyArkansas.
 
 Registration
 ------------
@@ -29,7 +29,7 @@ Privacy Notice
 
 In the course of registering for the event and related events, personal information will be collected about attendees such as their name, contact details, etc. This information is required to facilitate registration to the event, for catering requirements, and for organizers or their agents to contact particular attendees as and when required in respect of the event. Attendees who do not disclose this personal information will be unable to complete registration at the event and will therefore not be able to attend.
 
-Personal information will only be disclosed to North Bay Python, Software Freedom Conservancy, and to Government agencies where organizers believe disclosure is appropriate for legal compliance and law enforcement; to facilitate court proceedings; to enforce our terms and conditions; or to protect the rights, property, or safety of the event, our attendees, or others. North Bay Python and Software Freedom Conservancy will not sell your personal information to third parties and will not use your personal information to send promotional material from any of our affiliated partners and/or sponsors.
+Personal information will only be disclosed to PyArkansas, Software Freedom Conservancy, and to Government agencies where organizers believe disclosure is appropriate for legal compliance and law enforcement; to facilitate court proceedings; to enforce our terms and conditions; or to protect the rights, property, or safety of the event, our attendees, or others. PyArkansas and Software Freedom Conservancy will not sell your personal information to third parties and will not use your personal information to send promotional material from any of our affiliated partners and/or sponsors.
 
 As part of the registration process attendees will be asked if they would like to subscribe to the event mailing lists and/or the event announcement mailing list. Attendees who subscribe to one or more of these lists will be sent emails from the event organizers and other subscribers to the mailing lists. If at any time, attendees wish to unsubscribe from any of these mailing lists, please follow the 'how to unsubscribe' directions on the bottom of any message you receive from these mailing lists.
 
@@ -55,9 +55,9 @@ Be aware that for security and operational reasons the event organizers may both
 Discrimination and Anti-Social Behaviour
 ----------------------------------------
 
-North Bay Python is proud to support people from all walks of life, especially underrepresented groups like women and people of color, and will not tolerate in any fashion any intimidation, harassment, and/or any abusive, discriminatory or derogatory behaviour by any attendees of the event and/or related events.
+PyArkansas is proud to support people from all walks of life, especially underrepresented groups like women and people of color, and will not tolerate in any fashion any intimidation, harassment, and/or any abusive, discriminatory or derogatory behaviour by any attendees of the event and/or related events.
 
-Examples of these behaviors and measures the event organizers may take are set out in the [Code of Conduct](/code-of-conduct). By registering for and attending North Bay Python, you agree to this Code of Conduct.
+Examples of these behaviors and measures the event organizers may take are set out in the [Code of Conduct](/code-of-conduct). By registering for and attending PyArkansas, you agree to this Code of Conduct.
 
 Talk Recordings
 ---------------
@@ -67,7 +67,7 @@ Event organizers may provide recordings of talks (audio and/or video) given at t
 Photography and Audio Video Recording
 -------------------------------------
 
-This applies to all attendees of North Bay Python and related events, including staff who are designated as official photographers and audio and video recorders.
+This applies to all attendees of PyArkansas and related events, including staff who are designated as official photographers and audio and video recorders.
 
 Do not photograph, video or audio record anyone without their express permission.
 
@@ -77,15 +77,15 @@ Attendees will have a way to visibly signal their preference for photography at 
 * Permission required: Ask before photographing
 * Opt-out: Photographs are never okay, don't ask
 
-Attendees who are not visibly signaling their preference should be asked for permission before photographing.  There is no prior opt-in for audio or video recordings. You must always ask before recording. 
+Attendees who are not visibly signaling their preference should be asked for permission before photographing.  There is no prior opt-in for audio or video recordings. You must always ask before recording.
 
 The event may have one or more staff taking photographs and/or audio or video recordings during the event. These staff will respect attendees' preferences regarding photography and recordings.
 
 The only exception is for recordings of talks given at the event where attendees who ask questions of the presenter may be included in the talk recording.
 
-If Software Freedom Conservancy or North Bay Python organizers chooses to publish photographs and recordings taken by event staff, we will publish them under a Creative Commons license. Conservancy and North Bay Python further reserve the right to use those photographs and recordings in promotional materials to promote North Bay Python and/or the use of free and open source software.
+If Software Freedom Conservancy or PyArkansas organizers chooses to publish photographs and recordings taken by event staff, we will publish them under a Creative Commons license. Conservancy and PyArkansas further reserve the right to use those photographs and recordings in promotional materials to promote PyArkansas and/or the use of free and open source software.
 
-If there is a violation of this policy, event organizers will request that the photograph be removed from any sites where it was posted and deleted from the devices. In the event that this request is ignored or further violations occur, the participants violating this policy may be sanctioned or expelled from the conference without a refund or banned from future North Bay Python events.
+If there is a violation of this policy, event organizers will request that the photograph be removed from any sites where it was posted and deleted from the devices. In the event that this request is ignored or further violations occur, the participants violating this policy may be sanctioned or expelled from the conference without a refund or banned from future PyArkansas events.
 
 Media
 -----
