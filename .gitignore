@@ -8,3 +8,4 @@ staticfiles
 venv/
 pinaxcon/site_media
 .env
+.vscode/  
