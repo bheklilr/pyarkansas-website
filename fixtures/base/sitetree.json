@@ -467,9 +467,9 @@
   "model": "sitetree.treeitem",
   "pk": 33,
   "fields": {
-    "title": "Columbus",
+    "title": "Little Rock",
     "hint": "",
-    "url": "/2018/about/columbus",
+    "url": "/2018/about/little-rock",
     "urlaspattern": false,
     "tree": 1,
     "hidden": true,
